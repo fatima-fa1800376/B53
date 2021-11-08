@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6838bf1f-cecf-476f-99aa-834a529a2f61" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../MVVMPractice/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 7-MVVM/BankingApp/app/src/main/java/com/cmps312/bankingapp/model/Account.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab 7-MVVM/BankingApp/app/src/main/java/com/cmps312/bankingapp/model/Account.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 7-MVVM/BankingApp/app/src/main/java/com/cmps312/bankingapp/model/Beneficiary.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab 7-MVVM/BankingApp/app/src/main/java/com/cmps312/bankingapp/model/Beneficiary.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 7-MVVM/BankingApp/app/src/main/java/com/cmps312/bankingapp/model/Transfer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab 7-MVVM/BankingApp/app/src/main/java/com/cmps312/bankingapp/model/Transfer.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 7-MVVM/BankingApp/app/src/main/java/com/cmps312/bankingapp/respository/BankRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab 7-MVVM/BankingApp/app/src/main/java/com/cmps312/bankingapp/respository/BankRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 7-MVVM/BankingApp/app/src/main/java/com/cmps312/bankingapp/views/BankingViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab 7-MVVM/BankingApp/app/src/main/java/com/cmps312/bankingapp/views/BankingViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 7-MVVM/BankingApp/app/src/main/java/com/cmps312/bankingapp/views/fundtransfer/Beneficiary.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab 7-MVVM/BankingApp/app/src/main/java/com/cmps312/bankingapp/views/fundtransfer/Beneficiary.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 7-MVVM/Lab07-MVVM.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab 7-MVVM/Lab07-MVVM.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/BankingApp/app/src/main/java/cmps312/bankingapp/api/BankRoutes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab9/BankingApp/app/src/main/java/cmps312/bankingapp/api/BankRoutes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/BankingApp/app/src/main/java/cmps312/bankingapp/api/BankService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab9/BankingApp/app/src/main/java/cmps312/bankingapp/api/BankService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/BankingApp/app/src/main/java/cmps312/bankingapp/api/BankServiceImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab9/BankingApp/app/src/main/java/cmps312/bankingapp/api/BankServiceImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/BankingApp/app/src/main/java/cmps312/bankingapp/viewmodel/BankingViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab9/BankingApp/app/src/main/java/cmps312/bankingapp/viewmodel/BankingViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVVMPractice/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MVVMPractice/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVVMPractice/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../MVVMPractice/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVVMPractice/app/src/main/java/cmps312/lab3/mvvmpractice/AppNavHost.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MVVMPractice/app/src/main/java/cmps312/lab3/mvvmpractice/AppNavHost.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVVMPractice/app/src/main/java/cmps312/lab3/mvvmpractice/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MVVMPractice/app/src/main/java/cmps312/lab3/mvvmpractice/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVVMPractice/app/src/main/java/cmps312/lab3/mvvmpractice/view/AddStudent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MVVMPractice/app/src/main/java/cmps312/lab3/mvvmpractice/view/AddStudent.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVVMPractice/app/src/main/java/cmps312/lab3/mvvmpractice/viewmodel/GradeViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MVVMPractice/app/src/main/java/cmps312/lab3/mvvmpractice/viewmodel/GradeViewModel.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1zxElgCawKCW8FeJjx0JbY9ygjB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MVVMPractice" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6838bf1f-cecf-476f-99aa-834a529a2f61" name="Default Changelist" comment="" />
+      <created>1635081490965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635081490965</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
